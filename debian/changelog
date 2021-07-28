@@ -1,3 +1,12 @@
+openresty-lua-cjson (2.1.0.8-1ppa1~focal) focal; urgency=medium
+
+  * Add debian/gbp.conf.
+  * Add patch to skip a failing test with different object key orders.
+  * Build only for luajit.
+  * Adjust doc files in openresty-lua-cjson-dev package.
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Thu, 29 Jul 2021 08:28:10 +0900
+
 lua-cjson (2.1.0+dfsg-2.1) unstable; urgency=medium
 
   * Non-maintainer upload.
