@@ -1,7 +1,7 @@
 Source: openresty-lua-cjson
 Maintainer: Hiroaki Nakamura <hnakamur@gmail.com>
 Uploaders: Hiroaki Nakamura <hnakamur@gmail.com>
-Build-Depends: debhelper (>= 9), libluajit-5.1-dev
+Build-Depends: debhelper (>= 9), libluajit-5.1-dev, luajit
 Standards-Version: 3.9.3
 Section: interpreters
 Priority: optional
