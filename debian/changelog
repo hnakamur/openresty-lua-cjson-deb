@@ -1,4 +1,4 @@
-openresty-lua-cjson (2.1.0.8-1ppa1~focal) focal; urgency=medium
+openresty-lua-cjson (2.1.0.8+dfsg-1ppa1~bionic) bionic; urgency=medium
 
   * Add debian/gbp.conf.
   * Add patch to skip a failing test with different object key orders.
