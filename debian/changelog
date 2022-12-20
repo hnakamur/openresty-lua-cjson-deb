@@ -1,3 +1,10 @@
+openresty-lua-cjson (2.1.0.8+dfsg-1ppa2~ubuntu18.04) bionic; urgency=medium
+
+  * Fix setting environment variables in debian/rules
+  * Add patch to link luajit-5.1
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 21 Dec 2022 07:08:47 +0900
+
 openresty-lua-cjson (2.1.0.8+dfsg-1ppa1~bionic) bionic; urgency=medium
 
   * Add debian/gbp.conf.
