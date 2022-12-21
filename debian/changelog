@@ -1,3 +1,9 @@
+openresty-lua-cjson (2.1.0.9+dfsg-1ppa1~ubuntu20.04) focal; urgency=medium
+
+  * New upstream version 2.1.0.9
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Wed, 21 Dec 2022 22:35:09 +0900
+
 openresty-lua-cjson (2.1.0.8+dfsg-1ppa2~ubuntu20.04) focal; urgency=medium
 
   * Fix setting environment variables in debian/rules
